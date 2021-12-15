@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BoX-Or-Something
+- 👀 I’m interested in creating things that are open-source
+- 🌱 I’m currently learning tailwind
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me? no.
